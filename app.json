@@ -1,0 +1,8 @@
+{
+    "name": "API Test",
+    "description": "App for api test - hometrack",
+    "repository": "https://github.com/sallymoussa/api-test",
+    "logo": "",
+    "keyword": ["node", "express", "api-test", "static"],
+    "image": "heroku/nodejs"
+}
